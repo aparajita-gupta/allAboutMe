@@ -35,6 +35,7 @@ class ViewController: UIViewController {
         fact4.isHidden = false
         fact5.isHidden = false
         fact6.isHidden = false
+        //jhfk
     }
 }
 
